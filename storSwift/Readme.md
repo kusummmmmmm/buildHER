@@ -1,0 +1,2 @@
+Program id :hello_world_3c2950b7.aleo
+Transaction id: at16prc6mk2s8gcfyrd04q8rgky4ce8jwy6uvcj7hwqr3c2d0um3vxs6pa68f
